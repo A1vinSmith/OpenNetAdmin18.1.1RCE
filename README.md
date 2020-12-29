@@ -1,5 +1,5 @@
 **OpenNetAdmin 18.1.1 - Remote Code Execution**
 
-Revision 2020 exploit in bash
+**d4t4s3c** 2020 revision exploit
   
-[Original exploit 2019:](https://www.exploit-db.com/exploits/47691)
+**Matt Pascoe** [2019 original exploit](https://www.exploit-db.com/exploits/47691)
