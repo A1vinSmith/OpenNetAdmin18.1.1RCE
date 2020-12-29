@@ -8,7 +8,7 @@
 
 **Screenshot**
 
-![](/screenshot1.png)
+![](/screenshot 1.png)
 
 ![](/screenshot2.png)
 
