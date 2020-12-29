@@ -31,6 +31,7 @@ function banner(){
 function main(){
     echo ""
     echo -e "$a$v1$b usage: $r./OpenNetAdmin.sh <URL> <LHOST> <LPORT>$nc"
+    echo ""
 }
 
 banner
