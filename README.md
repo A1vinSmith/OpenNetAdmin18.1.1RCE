@@ -2,9 +2,9 @@
 
 # ONLY USE FOR EDUCATIONAL PURPOSES
 
-**d4t4s3c** ---------- [2021 revision exploit](https://github.com/d4t4s3c/OpenNetAdmin18.1.1RCE)
+[d4t4s3c     2021 revision exploit](https://github.com/d4t4s3c/OpenNetAdmin18.1.1RCE)
   
-**Matt Pascoe** ------ [2019 original exploit](https://www.exploit-db.com/exploits/47691)
+[Matt Pascoe 2019 original exploit](https://www.exploit-db.com/exploits/47691)
 
 **Screenshot**
 
