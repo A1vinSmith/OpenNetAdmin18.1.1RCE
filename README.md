@@ -1,4 +1,4 @@
-**OpenNetAdmin 18.1.1 - Remote Code Execution**
+**OpenNetAdmin 18.1.1 - Exploit - Remote Code Execution**
 
 # ONLY USE FOR EDUCATIONAL PURPOSES
 
